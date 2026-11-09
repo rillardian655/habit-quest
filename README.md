@@ -2,7 +2,7 @@
   <img src="assets/images/app_logo.png" width="120" height="120" alt="HabitQuest Logo" style="border-radius: 50%;" />
 </p>
 
-# HabitQuest ⚔️ – Gamified RPG Habit & Routine Tracker
+# HabitQuest Gamified RPG Habit & Routine Tracker
 
 [![Download APK](https://img.shields.io/badge/Download_APK-HabitQuest--v1.0.0.apk-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/rillardian655/game-sederhana/releases/download/v1.0.0/HabitQuest-v1.0.0.apk)
 
@@ -18,7 +18,7 @@
 
 ##  Fitur Utama
 
-### 1. ⚔️ Quest & Habit Management
+### 1.  Quest & Habit Management
 * **Tingkat Kesulitan Quest:** Setiap misi memiliki reward dan konsekuensi berbeda:
   *  **Mudah:** `+20 EXP`, `+8 Gold`, penalty `-8 HP`
   *  **Sedang:** `+45 EXP`, `+18 Gold`, penalty `-15 HP`
@@ -64,7 +64,7 @@
 
 ---
 
-## 🏛️ Arsitektur Aplikasi
+##  Arsitektur Aplikasi
 
 Proyek ini menerapkan arsitektur **Clean Layered MVVM** yang terstruktur rapi:
 
@@ -136,7 +136,7 @@ lib/
 
 ---
 
-## 🧪 Pengujian (Testing)
+##  Pengujian (Testing)
 Aplikasi ini dilengkapi unit test yang menguji integritas mekanisme game:
 * Status awal Hero (Level, HP, Gold).
 * Perhitungan EXP, Gold, dan Streak saat menyelesaikan quest.
