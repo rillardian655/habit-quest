@@ -16,50 +16,50 @@
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 ### 1. ⚔️ Quest & Habit Management
 * **Tingkat Kesulitan Quest:** Setiap misi memiliki reward dan konsekuensi berbeda:
-  * 🟢 **Mudah:** `+20 EXP`, `+8 Gold`, penalty `-8 HP`
-  * 🔵 **Sedang:** `+45 EXP`, `+18 Gold`, penalty `-15 HP`
-  * 🟣 **Sulit:** `+80 EXP`, `+35 Gold`, penalty `-25 HP`
-  * 🔥 **Epik:** `+150 EXP`, `+70 Gold`, penalty `-40 HP`
+  *  **Mudah:** `+20 EXP`, `+8 Gold`, penalty `-8 HP`
+  *  **Sedang:** `+45 EXP`, `+18 Gold`, penalty `-15 HP`
+  *  **Sulit:** `+80 EXP`, `+35 Gold`, penalty `-25 HP`
+  *  **Epik:** `+150 EXP`, `+70 Gold`, penalty `-40 HP`
 * **Filter Interaktif:** Filter antara Semua, Pending, dan Selesai.
 * **Streak Counter:** Catat rekor berapa hari berturut-turut kamu konsisten menyelesaikan setiap misi.
 
-### 2. 🐉 Dungeon Bos Monster (Boss Raid Arena)
+### 2.  Dungeon Bos Monster (Boss Raid Arena)
 * **Serangan Otomatis Saat Selesaikan Misi:** Setiap kali kamu menyelesaikan misi harian di dunia nyata, pahlawanmu otomatis menebas bos aktif di dungeon!
 * **Pasif Serangan Tiap Kelas:**
-  * ⚔️ Warrior: Tebasan Fisik (+15 DMG)
-  * 🧙‍♂️ Mage: Ledakan Sihir (+20 DMG)
-  * 🗡️ Rogue: Serangan Mengendap (+10 DMG + Peluang Serangan Kritis)
-  * 🛡️ Paladin: Hukuman Suci (+12 DMG)
-* **⚡ Jurus Pamungkas Fokus:** Kerahkan skill spesial menggunakan 20 Gold untuk melancarkan 55 DMG instan ke Bos.
+  *  Warrior: Tebasan Fisik (+15 DMG)
+  *  Mage: Ledakan Sihir (+20 DMG)
+  *  Rogue: Serangan Mengendap (+10 DMG + Peluang Serangan Kritis)
+  *  Paladin: Hukuman Suci (+12 DMG)
+* ** Jurus Pamungkas Fokus:** Kerahkan skill spesial menggunakan 20 Gold untuk melancarkan 55 DMG instan ke Bos.
 * **4 Roster Bos Epik:**
-  1. 👾 **Slime Penunda Waktu** (150 HP)
-  2. 🦅 **Gryphon Distraksi Notifikasi** (320 HP)
-  3. 🐉 **Naga Kemalasan "Procrastidor"** (580 HP)
-  4. 👹 **Raja Iblis Burnout & Kelelahan** (950 HP)
+  1.  **Slime Penunda Waktu** (150 HP)
+  2.  **Gryphon Distraksi Notifikasi** (320 HP)
+  3.  **Naga Kemalasan "Procrastidor"** (580 HP)
+  4.  **Raja Iblis Burnout & Kelelahan** (950 HP)
 * **Hadiah Rampasan Peti Harta:** Kalahkan bos untuk mendapatkan ratusan bonus EXP, koin emas melimpah, dan membuka gelar Trofi *Pemburu Monster*!
 
-### 3. 🛡️ Hero Progression & Game Mechanics
+### 3.  Hero Progression & Game Mechanics
 * **Sistem Level & EXP:** Kumpulkan EXP untuk naik level. Saat level naik, HP pulih penuh dan dapat bonus koin emas.
 * **4 Kelas Pahlawan dengan Pasif Berbeda:**
-  * ⚔️ **Warrior:** Pertahanan kokoh (+25 Base HP).
-  * 🧙‍♂️ **Mage:** Penguasa ilmu & fokus (+10% Bonus EXP setiap quest).
-  * 🗡️ **Rogue:** Ahli strategi (+15% Bonus Gold setiap quest).
-  * 🛡️ **Paladin:** Pelindung disiplin (-20% pengurangan damage penalty).
+  *  **Warrior:** Pertahanan kokoh (+25 Base HP).
+  *  **Mage:** Penguasa ilmu & fokus (+10% Bonus EXP setiap quest).
+  *  **Rogue:** Ahli strategi (+15% Bonus Gold setiap quest).
+  *  **Paladin:** Pelindung disiplin (-20% pengurangan damage penalty).
 * **Konsekuensi Nyata (Daily Rollover):** Jika kamu melewatkan quest kemarin, pahlawanmu akan terkena serangan damage HP. Jika HP habis sampai 0, pahlawan akan pingsan dan kehilangan sebagian Gold!
 
-### 3. 🍺 Kedai Hadiah (Tavern / Self-Reward Shop)
+### 3.  Kedai Hadiah (Tavern / Self-Reward Shop)
 * Gunakan Gold yang kamu dapatkan dengan susah payah untuk membeli hadiah dunia nyata:
-  * 🧪 **Ramuan HP (+40 Darah):** Pulihkan darahmu setelah lelah beraktivitas.
-  * ☕ **Beli Kopi / Minuman Favorit (40 Gold)**
-  * 🎬 **Nonton 1 Episode Series / Anime (50 Gold)**
-  * 🎮 **Main Game Bebas 1 Jam (75 Gold)**
+  *  **Ramuan HP (+40 Darah):** Pulihkan darahmu setelah lelah beraktivitas.
+  *  **Beli Kopi / Minuman Favorit (40 Gold)**
+  *  **Nonton 1 Episode Series / Anime (50 Gold)**
+  *  **Main Game Bebas 1 Jam (75 Gold)**
 * Tambahkan hadiah buatanmu sendiri secara bebas lengkap dengan pilihan emoji!
 
-### 4. 📜 Catatan Petualangan (Adventure Battle Log)
+### 4.  Catatan Petualangan (Adventure Battle Log)
 * Timeline riwayat aktivitas yang mencatat setiap quest yang diselesaikan, kenaikan level, konsumsi ramuan, dan serangan damage.
 
 ---
@@ -103,7 +103,7 @@ lib/
 
 ---
 
-## 🚀 Cara Menjalankan Proyek
+##  Cara Menjalankan Proyek
 
 ### Prasyarat
 * [Flutter SDK](https://flutter.dev/docs/get-started/install) (v3.22.0 atau lebih baru)
@@ -150,5 +150,5 @@ flutter test
 
 ---
 
-## 📜 Lisensi
+##  Lisensi
 Didistribusikan di bawah lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
